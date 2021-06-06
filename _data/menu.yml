@@ -1,0 +1,17 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: <a href='https://twitter.com/coreywrite'>@coreywrite</a>
+    entries:
+      - title: i'm currently most interested in linguistic phenomena that serve as a kind of stress-test for some of our most deep-seated assumptions about natural languages (the principle of compositionality, the existence of well-defined lexical categories, the binary nature of grammaticality, whether argument structure is strictly defined in the lexicon, etc.)
+      - title:  cases where meanings of whole phrases are not simple functions of the meanings of their constitutent parts -- where analyses in terms of atomistic combination that assume a tight syntax-semantics link are virtually impossible without the positing of empty elements or a rich invisible functional structure -- suggest to me, on both theoretical parsimony and empirical grounds, that constructions (morphosyntactic templates of varying degrees of abstractness that can themselves can contribute meaning) should be considered bonafide linguistic objects in their own right
+      - title: my preferred grammar formalisms are constraint-based surface-based non-derivational ones like <a href='https://hpsg.hu-berlin.de/Projects/HPSG-handbook/'>HPSG</a> and its CxG-inspired offshoot <a href='https://web.stanford.edu/group/cslipublications/cslipublications/pdf/BoasSag-sag-chapter.pdf'>SBCG</a>, <a href='http://www.sas.rochester.edu/lin/sites/asudeh/pdf/asudeh-toivonen09-lfg-ohla.pdf'>LFG</a>, etc.
+      - title: see posts below for more detailed thoughts on these matters
+
+  - title: posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
